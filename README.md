@@ -3,7 +3,6 @@
  <div>
   <a href="https://github.com/JacksonSanti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonSanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSanti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JK-Node" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
