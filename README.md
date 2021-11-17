@@ -8,7 +8,7 @@
   <img align="center" alt="JK-Node" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
    <img align="center" alt="JK-Node" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="JK-React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align="center" alt="JK-PHP" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="JK-PHP" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="JK-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="JK-RubyOnRails" height="30" width="80" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <img align="right" alt="JK-GIF" src="https://media.discordapp.net/attachments/847874748394111026/879427619257471013/naruto-naruto-shippuden_1.gif">
