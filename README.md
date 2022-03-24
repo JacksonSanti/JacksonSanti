@@ -6,7 +6,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JK-Node" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="JK-PHP" height="60" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956577269881663548/php_8_released.png?width=1025&height=371">
+   <img align="center" alt="JK-PHP" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956577269881663548/php_8_released.png?width=1025&height=371">
   <img align="center" alt="JK-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
    <img align="center" alt="JK-flutter" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956575355592904744/flutter12.png">
   <img align="right" alt="JK-GIF" src="https://media.discordapp.net/attachments/847874748394111026/879427619257471013/naruto-naruto-shippuden_1.gif">
