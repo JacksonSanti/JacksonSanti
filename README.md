@@ -13,7 +13,7 @@
   <img align="center" alt="JK-RubyOnRails" height="30" width="80" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
    <img align="center" alt="JK-RubyOnRails" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956575355592904744/flutter12.png">
   <img align="right" alt="JK-GIF" src="https://media.discordapp.net/attachments/847874748394111026/879427619257471013/naruto-naruto-shippuden_1.gif">
-   <img align="right" alt="JK-GIF" src="https://media.discordapp.net/attachments/847874748394111026/956575355592904744/flutter12.png">
+   
 </div>
   
   ##
