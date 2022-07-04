@@ -9,7 +9,7 @@
    <img align="center" alt="JK-PHP" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956577269881663548/php_8_released.png?width=1025&height=371">
   <img align="center" alt="JK-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
    <img align="center" alt="JK-flutter" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956575355592904744/flutter12.png">
-    <img align="center" alt="JK-Java" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956575355592904744/flutter12.png">
+    <img align="center" alt="JK-Java" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/993486720744038461/java1.png">
   <img align="right" alt="JK-GIF" height="200" width="200" src="https://media.discordapp.net/attachments/847874748394111026/956578559508480000/giphy_1.gif">
     
 </div>
