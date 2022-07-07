@@ -1,4 +1,4 @@
-### Sou Jackson 😅 (Programando em um novo mundo)
+### Programando em um novo mundo
 
  <div>
   <a href="https://github.com/JacksonSanti">
