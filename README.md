@@ -10,7 +10,7 @@
    <img align="center" alt="JK-flutter" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/956575355592904744/flutter12.png">
     <img align="center" alt="JK-Java" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/993486720744038461/java1.png">
     <img align="center" alt="JK-Spring" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/1016405100182376478/spring.png">
-   <img align="center" alt="JK-kotlin" height="30" width="80" src="https://discord.com/channels/@me/847874748394111026/1141105633597341726">
+   <img align="center" alt="JK-kotlin" height="30" width="80" src="https://media.discordapp.net/attachments/847874748394111026/1141105633358250064/kotlin.png">
   <img align="right" alt="JK-GIF" height="200" width="200" src="https://media.discordapp.net/attachments/847874748394111026/956578559508480000/giphy_1.gif">
     
 </div>
