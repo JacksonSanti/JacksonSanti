@@ -6,9 +6,9 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JK-Node" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-   <img align="center" alt="JK-CI4" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg"> 
     <img align="center" alt="JK-PHP" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> 
-     <img align="center" alt="JK-Laravel" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"> 
+   <img align="center" alt="JK-CI4" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg"> 
+   <img align="center" alt="JK-Laravel" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"> 
    <img align="center" alt="JK-Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
    <img align="center" alt="JK-Django" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
    <img align="center" alt="JK-Flask" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
