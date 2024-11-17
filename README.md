@@ -6,11 +6,16 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="JK-Node" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-   <img align="center" alt="JK-CI4" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg">
-  <img align="center" alt="JK-Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-    <img align="center" alt="JK-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="JK-CI4" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg"> 
+    <img align="center" alt="JK-PHP" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> 
+     <img align="center" alt="JK-Laravel" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"> 
+   <img align="center" alt="JK-Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="JK-Django" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
+   <img align="center" alt="JK-Flask" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
+   <img align="center" alt="JK-Java" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="JK-Spring" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
    <img align="center" alt="JK-kotlin" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg">
+   <img align="center" alt="JK-Jetpack-Compose" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg">
   <img align="right" alt="JK-GIF" height="200" width="200" src="https://media.discordapp.net/attachments/847874748394111026/956578559508480000/giphy_1.gif">
     
 </div>
