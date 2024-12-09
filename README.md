@@ -18,15 +18,3 @@
    <img align="center" alt="JK-Jetpack-Compose" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg">
   <img align="right" alt="JK-GIF" height="200" width="200" src="https://media.discordapp.net/attachments/847874748394111026/956578559508480000/giphy_1.gif">
     
-</div>
-  
-  ##
-
-  
-  <div> 
-  <a href="https://www.linkedin.com/in/jacksondossantos/" target="_blank"><img width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-</div>
-  
